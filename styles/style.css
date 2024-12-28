@@ -245,7 +245,6 @@ span {
     content: "";
     background-color: rgb(0, 0, 0);
     position: absolute;
-    width: calc(30%);
     height: 100%;
     border-left: 3px solid black;
     right: -8;
